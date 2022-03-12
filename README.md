@@ -6,13 +6,15 @@
 
 - 👩‍💻 I’m a graduated Business Administrator with work experience in the Food and Cosmetic industry who decided to make a career change into Software Development. 
 - ⚡ Currently immersed in development studies, in front-end technologies (React, Javascript, HTML and CSS) and back-end (C #, .NET framework), with the intention of taking on a challenge as a developer.
+- 🔭 Brazilian-portuguese translator contributor at [FreeCodeCamp](https://freecodecamp.org)  
 - 👩‍💻 Also attending a Higher Diploma in Computer in Science.
 - 😄 Pronouns: She/Her
+
+<!-- - ⚡ Fun fact:  -->
 <!-- - 🔭 Working in the areas of project management and strategic planning; -->
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
-<!-- - ⚡ Fun fact: ... -->
-<!-- - 🔭 I’m currently working on [Rocketseat](https://github.com/Rocketseat) -->
+
 <!-- - 👨‍💻 All of my projects are available at [mayk.brito.net.br](https://mayk.brito.net.br) -->
 <!-- - ▶️ I regulary post videos on [youtube.com/rocketseat](https://youtube.com/rocketseat) -->
 _______
