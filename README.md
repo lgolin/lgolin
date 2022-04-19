@@ -5,7 +5,7 @@
 <!-- **lgolin/lgolin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on my GitHub profile. -->
 
 - 👩‍💻 I’m a graduated Business Administrator with work experience in the Food and Cosmetic industry who decided to make a career change into Software Development. 
-- ⚡ Currently immersed in development studies, in front-end technologies (React, Javascript, HTML and CSS) and back-end (C #, .NET framework), with the intention of taking on a challenge as a developer.
+- ⚡ Currently immersed in development studies, in front-end technologies (React, Javascript, HTML and CSS) and back-end (Node.js), with the intention of taking on a challenge as a developer.
 - 🔭 Brazilian-portuguese translator contributor at [FreeCodeCamp](https://freecodecamp.org)  
 - 👩‍💻 Also attending a Higher Diploma in Computer in Science.
 - 😄 Pronouns: She/Her
