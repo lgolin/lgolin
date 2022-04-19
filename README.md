@@ -18,7 +18,7 @@
 <!-- - 👨‍💻 All of my projects are available at [mayk.brito.net.br](https://mayk.brito.net.br) -->
 <!-- - ▶️ I regulary post videos on [youtube.com/rocketseat](https://youtube.com/rocketseat) -->
 _______
-- 💬 Ask me about **JavaScript, HTML, CSS, React and SQL**
+- 💬 Ask me about **JavaScript, HTML, CSS, JavaScript, React and SQL**
 - 📫 How to reach me **laisgolin@gmail.com**
 
 <p align="center">
