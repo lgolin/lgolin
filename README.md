@@ -4,8 +4,7 @@
 
 <!-- **lgolin/lgolin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on my GitHub profile. -->
 
-- 👩‍💻 I’m a graduated Business Administrator with work experience in the Food and Cosmetic industry who decided to make a career change into Software Development. 
-- ⚡ Currently immersed in development studies, in front-end technologies (React, Javascript, HTML and CSS) and back-end (Node.js), with the intention of taking on a challenge as a developer.
+- 👩‍💻 Currently doing an internship as a software developer.
 - 🔭 Brazilian-portuguese translator contributor at [FreeCodeCamp](https://freecodecamp.org)  
 - 👩‍💻 Also attending a Higher Diploma in Computer in Science.
 - 😄 Pronouns: She/Her
@@ -20,7 +19,7 @@
 _______
 - 💬 Ask me about **JavaScript, HTML, CSS, JavaScript, React and SQL**
 - 📫 How to reach me **laisgolin@gmail.com**
-
+<!--
 <p align="center">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="20" height="20"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain-wordmark.svg" alt="css3"  width="20" height="20"/>
@@ -29,7 +28,7 @@ _______
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="20" height="20"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="20" height="20"/></p><p align="center">
 </p>
-
+-->
 <p align="center">
 <!-- <a href="https://codepen.io/maykbrito" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="gusparizi" height="20" width="20" /></a> -->
 <a href="https://twitter.com/laisgolin" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="laisgolin" height="20" width="20" /></a>
