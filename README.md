@@ -1,5 +1,5 @@
 <h1 align="center">Hi dear, I'm Lais</h1>
-<h3 align="center">• Frontend Developer •</h3>
+<h3 align="center">• Software Developer Intern •</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lgolin&color=yellow" alt="lgolin" /> </p>
 
 <!-- **lgolin/lgolin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on my GitHub profile. -->
