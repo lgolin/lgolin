@@ -29,7 +29,7 @@ _______
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="20" height="20"/></p><p align="center">
 </p>
 -->
-<p align="center">
+<p align="left">
 <!-- <a href="https://codepen.io/maykbrito" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="gusparizi" height="20" width="20" /></a> -->
 <a href="https://twitter.com/laisgolin" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="laisgolin" height="20" width="20" /></a>
 <a href="https://linkedin.com/in/laisgolin" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="laisgolin" height="20" width="20" /></a>
