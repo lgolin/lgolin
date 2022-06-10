@@ -33,6 +33,7 @@ _______
 <!-- <a href="https://codepen.io/maykbrito" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="gusparizi" height="20" width="20" /></a> -->
 <a href="https://twitter.com/laisgolin" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="laisgolin" height="20" width="20" /></a>
 <a href="https://linkedin.com/in/laisgolin" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="laisgolin" height="20" width="20" /></a>
+  <a href="https://codepen.io/golin" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="laisgolin" height="20" width="20" /></a>
 <!-- <a href="https://stackoverflow.com/maykbrito" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="gusparizi" height="20" width="20" /></a> -->
 <!-- <a href="https://codesandbox.com/maykbrito" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="gusparizi" height="20" width="20" /></a> -->
 <!-- <a href="https://fb.com/guparizi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="gusparizi" height="20" width="20" /></a> -->
