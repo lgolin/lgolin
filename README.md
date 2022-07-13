@@ -1,4 +1,4 @@
-<h1 align="center">Hi dear, I'm Lais</h1>
+<h1 align="center">Hi there, I'm Lais</h1>
 <h3 align="center">• Software Developer Intern •</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lgolin&color=yellow" alt="lgolin" /> </p>
 
